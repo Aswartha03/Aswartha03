@@ -87,7 +87,7 @@ React, MERN Stack, and DSA
 </p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswartha03&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=Aswartha03&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p>
