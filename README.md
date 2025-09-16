@@ -18,7 +18,7 @@ I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.
 <a href="mailto:212g1a0403@gmail.com" target="blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://kireetisangala.netlify.app/" target="_blank">
+<a href="https://portfolio-aswarth1-1.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
@@ -33,10 +33,10 @@ React, MERN Stack, and DSA
 📧 212g1a0403@gmail.com  
 
 👨‍💻 All of my projects are available at  
-🌐 [My Portfolio](https://kireetisangala.netlify.app/)  
+🌐 [My Portfolio](https://portfolio-aswarth1-1.onrender.com/)  
 
 📄 Know about my experiences  
-📑 [My Resume](https://drive.google.com/file/d/1N3iXBUOmizm8RZqNITJFqbzi5TVucCLo/view?usp=sharing) 
+📑 [My Resume](https://drive.google.com/file/d/1aqtfc7ehhuwSKOIfCWz6T5_GCfOUB8bR/view?usp=drive_link) 
 
 ---
 
