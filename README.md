@@ -3,9 +3,9 @@
 </p>
 
 <div align="center">
-<h1>I'm Kireeti, a Full-Stack Developer 🚀</h1>
+<h1>I'm Aswartha Reddy, a Full-Stack Developer 🚀</h1>
 <p>
-I'm a recent <b>B.Tech CSE graduate</b> and <b>Full Stack Development trainee at Masai School</b>.  
+I'm a recent <b>B.Tech ECE graduate</b> and <b>Full Stack Development trainee at Masai School</b>.  
 Passionate about building <b>scalable web applications</b>, solving challenging problems, and creating impactful digital experiences.  
 I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.  
 </p>
@@ -83,19 +83,19 @@ React, MERN Stack, and DSA
 <div align="center">
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=kireeti407&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aswartha03&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireeti407&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswartha03&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kireeti407&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aswartha03&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p>
-<img src="https://github-profile-trophy.vercel.app/?username=kireeti407&theme=radical&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aswartha03&theme=radical&column=7" alt="GitHub Trophies"/>
 </p>
 
 </div>
