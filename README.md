@@ -33,10 +33,10 @@ React, MERN Stack, and DSA
 📧 212g1a0403@gmail.com  
 
 👨‍💻 All of my projects are available at  
-🌐 [My Portfolio](https://portfolio-aswarth1-1.onrender.com/)  
+🌐 [Portfolio](https://portfolio-aswarth1-1.onrender.com/)  
 
 📄 Know about my experiences  
-📑 [My Resume](https://drive.google.com/file/d/1aqtfc7ehhuwSKOIfCWz6T5_GCfOUB8bR/view?usp=drive_link) 
+📑 [Resume](https://drive.google.com/file/d/1aqtfc7ehhuwSKOIfCWz6T5_GCfOUB8bR/view?usp=drive_link) 
 
 ---
 
