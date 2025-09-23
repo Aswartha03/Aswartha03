@@ -18,7 +18,7 @@ I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.
 <a href="mailto:212g1a0403@gmail.com" target="blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://portfolio-aswarth1-1.onrender.com/" target="_blank">
+<a href="https://rainbow-twilight-9ced3c.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
@@ -33,7 +33,7 @@ React, MERN Stack, and DSA
 📧 212g1a0403@gmail.com  
 
 👨‍💻 All of my projects are available at  
-🌐 [Portfolio](https://portfolio-aswarth1-1.onrender.com/)  
+🌐 [Portfolio](https://rainbow-twilight-9ced3c.netlify.app/)  
 
 📄 Know about my experiences  
 📑 [Resume](https://drive.google.com/file/d/1aqtfc7ehhuwSKOIfCWz6T5_GCfOUB8bR/view?usp=drive_link) 
