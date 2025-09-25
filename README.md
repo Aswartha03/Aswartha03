@@ -36,7 +36,7 @@ React, MERN Stack, and DSA
 🌐 [Portfolio](https://rainbow-twilight-9ced3c.netlify.app/)  
 
 📄 Know about my experiences  
-📑 [Resume](https://drive.google.com/file/d/1aqtfc7ehhuwSKOIfCWz6T5_GCfOUB8bR/view?usp=drive_link) 
+📑 [Resume](https://drive.google.com/file/d/1IBXlH1dKlxNlMDdNPUOGjWgUWdWorkbr/view) 
 
 ---
 
