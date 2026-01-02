@@ -15,7 +15,7 @@ I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.
 <a href="https://www.linkedin.com/in/aswarthareddyb/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:212g1a0403@gmail.com" target="blank">
+<a href="mailto:aswarth03@gmail.com" target="blank">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://rainbow-twilight-9ced3c.netlify.app/" target="_blank">
@@ -30,7 +30,7 @@ I enjoy turning ideas into <b>simple, intuitive, and responsive designs</b>.
 React, MERN Stack, and DSA
 
 📫 How to reach me  
-📧 212g1a0403@gmail.com  
+📧 aswarth03@gmail.com 
 
 👨‍💻 All of my projects are available at  
 🌐 [Portfolio](https://rainbow-twilight-9ced3c.netlify.app/)  
